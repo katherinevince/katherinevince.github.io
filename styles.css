@@ -1,0 +1,48 @@
+body {background: Lavender;
+color: LightSlateGray;
+font-size: 14pt;
+font-family: 'Open Sans', sans-serif;}
+
+h1 {color: LightSlateGray;
+    font-size: 250%;
+font-weight: bold;}
+
+h2 { font-size: 100%; font-style: italic; }
+text-decoration: none;}
+
+ a { color: darkened;
+ text-decoration: none;}
+ a:hover {color: LightSLateGray; }
+ 
+ nav li { display: inline-block }
+ 
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;}
+
+li {float: left;}
+
+li a {display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none}
+img {
+    display: block;
+    margin-left:auto; 
+    margin-right:auto;}
+
+h3{ font-size: 200%;
+    font-style: italic; 
+    text-align: center;}
+
+h4{ font-size: 200%;
+    font-style: italic;
+    text-align: center}
+
+h5{ font-size: 200%;
+    font-style: italic;
+    text-align: center }
+    
